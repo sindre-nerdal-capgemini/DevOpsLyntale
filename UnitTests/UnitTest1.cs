@@ -11,7 +11,7 @@ namespace Tests
         [Test]
         public void Test()
         {
-            Assert.Pass();
+            Assert.Fail();
         }
     }
 }
